@@ -1,4 +1,6 @@
 ## 2D-Wavelet program for image in python
+## To install python wavelet library for linux(ubuntu):
+## goto terminal and type: sudo apt-get install python-pywt
 
 import cv2                                                      # importing computer vision library
 import pywt                                                     # importing python wavelet library
